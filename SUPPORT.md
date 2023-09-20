@@ -1,4 +1,4 @@
-# Support
+# Support Channels
 
 If you are having an issue as a player of TERA Arise, please use one of the
 following channels to get support:

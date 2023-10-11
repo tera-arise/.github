@@ -7,17 +7,15 @@ process.
 ## Technical Issues
 
 The [issue tracker](https://github.com/tera-arise/arise/issues) is where all
-*technical* bug reports and feature requests should be posted. Other community
-areas are not appropriate for these as issues raised there are likely to be lost
-or forgotten.
+*technical* (i.e. non-gameplay) bug reports and feature requests should be
+posted.
 
 ## Game Suggestions
 
 Non-technical suggestions for the direction of the game design should be posted
-on the
-[discussion forum](https://github.com/tera-arise/arise/discussions/categories/suggestions).
-If we decide to adopt a suggestion, an issue for the implementation of it will
-be created by a member of the developer team.
+on the [Discord](https://discord.gg/BZnmVMGYa9) forums. If we decide to adopt a
+suggestion, a GitHub issue for the implementation of it will be created by a
+member of the developer team.
 
 ## Contributing Code
 

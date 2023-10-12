@@ -6,9 +6,8 @@ process.
 
 ## Technical Issues
 
-The [issue tracker](https://github.com/tera-arise/arise/issues) is where all
-*technical* (i.e. non-gameplay) bug reports and feature requests should be
-posted.
+The [issue tracker](https://github.com/tera-arise/arise/issues) is where all bug
+reports should be posted, as well as *technical* feature requests.
 
 ## Game Suggestions
 

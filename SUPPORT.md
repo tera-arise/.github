@@ -3,7 +3,7 @@
 If you are having an issue as a player of TERA Arise, please use one of the
 following channels to get support:
 
-* [Discord](https://discord.gg/BZnmVMGYa9): Many gameplay and technical issues
+* [Discord](https://discord.gg/tera-arise): Many gameplay and technical issues
   can be resolved with the help of the developer team and other players on the
   Discord community.
 * [GitHub](https://github.com/tera-arise/arise/issues): File an issue on GitHub

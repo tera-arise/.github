@@ -12,7 +12,7 @@ reports should be posted, as well as *technical* feature requests.
 ## Game Suggestions
 
 Non-technical suggestions for the direction of the game design should be posted
-on the [Discord](https://discord.gg/BZnmVMGYa9) forums. If we decide to adopt a
+on the [Discord](https://discord.gg/tera-arise) forums. If we decide to adopt a
 suggestion, a GitHub issue for the implementation of it will be created by a
 member of the developer team.
 
